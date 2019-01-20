@@ -1,7 +1,7 @@
 # Neural_Sentiment_Analysis
 Implementation of Tree Structured LSTM and Attention Mechanism Models for the task of Sentiment Analysis on Stanford Sentiment Treebank
 
-In this project we have implemented following models:
+In this project following models are implemented:
 
 1. Linear LSTM model (baseline)
 2. Tree Structured LSTM model taking reference from Kai Sheng Tai's paper [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075).
